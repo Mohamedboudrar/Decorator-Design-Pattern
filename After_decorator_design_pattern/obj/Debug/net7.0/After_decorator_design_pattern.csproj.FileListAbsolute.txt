@@ -1,0 +1,15 @@
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/bin/Debug/net7.0/After_decorator_design_pattern
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/bin/Debug/net7.0/After_decorator_design_pattern.deps.json
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/bin/Debug/net7.0/After_decorator_design_pattern.runtimeconfig.json
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/bin/Debug/net7.0/After_decorator_design_pattern.dll
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/bin/Debug/net7.0/After_decorator_design_pattern.pdb
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.AssemblyInfo.cs
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.dll
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/refint/After_decorator_design_pattern.dll
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.pdb
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/After_decorator_design_pattern.genruntimeconfig.cache
+/Users/mohamed/Projects/UIR/After_decorator_design_pattern/obj/Debug/net7.0/ref/After_decorator_design_pattern.dll

@@ -1,0 +1,15 @@
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/bin/Debug/net7.0/before_decorator_Design_Pattern
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/bin/Debug/net7.0/before_decorator_Design_Pattern.deps.json
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/bin/Debug/net7.0/before_decorator_Design_Pattern.runtimeconfig.json
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/bin/Debug/net7.0/before_decorator_Design_Pattern.dll
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/bin/Debug/net7.0/before_decorator_Design_Pattern.pdb
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.csproj.AssemblyReference.cache
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.AssemblyInfoInputs.cache
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.AssemblyInfo.cs
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.csproj.CoreCompileInputs.cache
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.dll
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/refint/before_decorator_Design_Pattern.dll
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.pdb
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/before_decorator_Design_Pattern.genruntimeconfig.cache
+/Users/mohamed/Projects/UIR/before_decorator_Design_Pattern/obj/Debug/net7.0/ref/before_decorator_Design_Pattern.dll

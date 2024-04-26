@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "After_decorator_design_pattern/1.0.0": {
+        "runtime": {
+          "After_decorator_design_pattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "After_decorator_design_pattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
